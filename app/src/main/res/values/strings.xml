@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">dsc-training_2</string>
+    <string name="action_settings">Settings</string>
+    <string name="todo">TODO</string>
+    <string name="barcelona">Barcelona</string>
+    <string name="spain">Spain</string>
+    <string name="_13">13</string>
+    <string name="morning_sam">Morning Sam...</string>
+    <string name="can_we_see_a_movie_today">Can we see a movie today?</string>
+</resources>
